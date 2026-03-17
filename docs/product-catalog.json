@@ -1,0 +1,578 @@
+{
+  "metadata": {
+    "source": "sodal.cl",
+    "scrape_date": "2026-03-17",
+    "total_products_in_sitemap": 201,
+    "systems_extracted_with_detail": 22,
+    "profiles_cataloged": 55
+  },
+  "systems": [
+    {
+      "slug": "serie-25",
+      "name": "Serie 25",
+      "category": "Ventanas Corredera",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/serie-25/"
+    },
+    {
+      "slug": "serie-s33",
+      "name": "Serie S-33",
+      "category": "Ventanas Corredera",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/serie-s33/"
+    },
+    {
+      "slug": "serie-s33-rpt",
+      "name": "Serie S-33 RPT",
+      "category": "Ventanas Corredera",
+      "type": "sistema",
+      "rpt": true,
+      "url": "https://sodal.cl/product/serie-s33-rpt/"
+    },
+    {
+      "slug": "serie-optima-s28",
+      "name": "Serie Óptima S-28",
+      "category": "Ventanas Corredera",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/serie-optima-s28/"
+    },
+    {
+      "slug": "serie-20",
+      "name": "Serie 20",
+      "category": "Ventanas Corredera",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/serie-20/"
+    },
+    {
+      "slug": "serie-4800",
+      "name": "Serie 4800",
+      "category": "Ventanas Corredera",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/serie-4800/"
+    },
+    {
+      "slug": "serie-5000",
+      "name": "Serie 5000",
+      "category": "Ventanas Corredera",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/serie-5000/"
+    },
+    {
+      "slug": "serie-s38",
+      "name": "Serie S-38",
+      "category": "Fijos y Proyectantes",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/serie-s38/"
+    },
+    {
+      "slug": "serie-s38-rpt",
+      "name": "Serie S-38 RPT",
+      "category": "Fijos y Proyectantes",
+      "type": "sistema",
+      "rpt": true,
+      "url": "https://sodal.cl/product/serie-s38-rpt/"
+    },
+    {
+      "slug": "serie-42",
+      "name": "Serie 42",
+      "category": "Fijos y Proyectantes",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/serie-42/"
+    },
+    {
+      "slug": "serie-3800",
+      "name": "Serie 3800",
+      "category": "Fijos y Proyectantes",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/serie-3800/"
+    },
+    {
+      "slug": "multislide-s83",
+      "name": "MultiSlide S-83",
+      "category": "Cortinas de Cristal",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/multislide-s83/"
+    },
+    {
+      "slug": "claroflex-pivot",
+      "name": "Claroflex Pivot",
+      "category": "Cortinas de Cristal",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/claroflex-pivot/"
+    },
+    {
+      "slug": "muro-cortina-g50",
+      "name": "Muro Cortina G-50",
+      "category": "Muros Cortina",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/muro-cortina-g50/"
+    },
+    {
+      "slug": "puerta-abatir-3200-st",
+      "name": "Puerta Abatir 3200 ST",
+      "category": "Puertas Abatir",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/puerta-abatir-3200-st/"
+    },
+    {
+      "slug": "puerta-abatir-3200-tp",
+      "name": "Puerta Abatir 3200 TP",
+      "category": "Puertas Abatir",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/puerta-abatir-3200-tp/"
+    },
+    {
+      "slug": "puerta-abatir-3200-l",
+      "name": "Puerta Abatir 3200 L",
+      "category": "Puertas Abatir",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/puerta-abatir-3200-l/"
+    },
+    {
+      "slug": "puerta-vaiven-s50",
+      "name": "Puerta Vaivén S-50",
+      "category": "Puertas Vaivén",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/puerta-vaiven-s50/"
+    },
+    {
+      "slug": "puerta-vaiven-4600",
+      "name": "Puerta Vaivén 4600",
+      "category": "Puertas Vaivén",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/puerta-vaiven-4600/"
+    },
+    {
+      "slug": "cortasol",
+      "name": "Cortasol",
+      "category": "Soluciones Especiales",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/cortasol/"
+    },
+    {
+      "slug": "quiebravista",
+      "name": "Quiebravista",
+      "category": "Soluciones Especiales",
+      "type": "componente",
+      "url": "https://sodal.cl/product/quiebravista/"
+    },
+    {
+      "slug": "shower-door-s12",
+      "name": "Shower Door S-12",
+      "category": "Shower Door",
+      "type": "sistema",
+      "url": "https://sodal.cl/product/shower-door-s12/"
+    }
+  ],
+  "standard_profiles": [
+    {
+      "slug": "angulo-12x12-mm",
+      "name": "Ángulo 12x12 mm",
+      "category": "Ángulos Alas Iguales",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/angulo-12x12-mm/"
+    },
+    {
+      "slug": "angulo-15x15-mm",
+      "name": "Ángulo 15x15 mm",
+      "category": "Ángulos Alas Iguales",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/angulo-15x15-mm/"
+    },
+    {
+      "slug": "angulo-20x20-mm",
+      "name": "Ángulo 20x20 mm",
+      "category": "Ángulos Alas Iguales",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/angulo-20x20-mm/"
+    },
+    {
+      "slug": "angulo-25x25-mm",
+      "name": "Ángulo 25x25 mm",
+      "category": "Ángulos Alas Iguales",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/angulo-25x25-mm/"
+    },
+    {
+      "slug": "angulo-30x30-mm",
+      "name": "Ángulo 30x30 mm",
+      "category": "Ángulos Alas Iguales",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/angulo-30x30-mm/"
+    },
+    {
+      "slug": "angulo-40x40-mm",
+      "name": "Ángulo 40x40 mm",
+      "category": "Ángulos Alas Iguales",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/angulo-40x40-mm/"
+    },
+    {
+      "slug": "angulo-50x50-mm",
+      "name": "Ángulo 50x50 mm",
+      "category": "Ángulos Alas Iguales",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/angulo-50x50-mm/"
+    },
+    {
+      "slug": "angulo-10x20-mm",
+      "name": "Ángulo 10x20",
+      "category": "Ángulos Alas Desiguales",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/angulo-10x20-mm/"
+    },
+    {
+      "slug": "angulo-12x25-mm",
+      "name": "Ángulo 12x25",
+      "category": "Ángulos Alas Desiguales",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/angulo-12x25-mm/"
+    },
+    {
+      "slug": "angulo-15x30-mm",
+      "name": "Ángulo 15x30",
+      "category": "Ángulos Alas Desiguales",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/angulo-15x30-mm/"
+    },
+    {
+      "slug": "angulo-20x40-mm",
+      "name": "Ángulo 20x40",
+      "category": "Ángulos Alas Desiguales",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/angulo-20x40-mm/"
+    },
+    {
+      "slug": "angulo-36x36-mm",
+      "name": "Ángulo 36x36",
+      "category": "Ángulos Especiales",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/angulo-36x36-mm/"
+    },
+    {
+      "slug": "angulo-46x46-mm",
+      "name": "Ángulo 46x46",
+      "category": "Ángulos Especiales",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/angulo-46x46-mm/"
+    },
+    {
+      "slug": "angulo-50x50x4-mm",
+      "name": "Ángulo 50x50x4",
+      "category": "Ángulos Especiales",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/angulo-50x50x4-mm/"
+    },
+    {
+      "slug": "perfil-cuadrado-25x25-mm",
+      "name": "Perfil Cuadrado 25x25 mm",
+      "category": "Tubos Cuadrados",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/perfil-cuadrado-25x25-mm/"
+    },
+    {
+      "slug": "perfil-cuadrado-30x30-mm",
+      "name": "Perfil Cuadrado 30x30 mm",
+      "category": "Tubos Cuadrados",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/perfil-cuadrado-30x30-mm/"
+    },
+    {
+      "slug": "perfil-cuadrado-40x40-mm",
+      "name": "Perfil Cuadrado 40x40 mm",
+      "category": "Tubos Cuadrados",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/perfil-cuadrado-40x40-mm/"
+    },
+    {
+      "slug": "perfil-cuadrado-50x50-mm",
+      "name": "Perfil Cuadrado 50x50 mm",
+      "category": "Tubos Cuadrados",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/perfil-cuadrado-50x50-mm/"
+    },
+    {
+      "slug": "perfil-rectangular-15x50-mm",
+      "name": "Rect. 15x50",
+      "category": "Tubos Rectangulares",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/perfil-rectangular-15x50-mm/"
+    },
+    {
+      "slug": "perfil-rectangular-20x66-mm",
+      "name": "Rect. 20x66",
+      "category": "Tubos Rectangulares",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/perfil-rectangular-20x66-mm/"
+    },
+    {
+      "slug": "perfil-rectangular-25x50-mm",
+      "name": "Rect. 25x50",
+      "category": "Tubos Rectangulares",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/perfil-rectangular-25x50-mm/"
+    },
+    {
+      "slug": "perfil-rectangular-25x75-mm",
+      "name": "Rect. 25x75",
+      "category": "Tubos Rectangulares",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/perfil-rectangular-25x75-mm/"
+    },
+    {
+      "slug": "perfil-rectangular-30x60-mm",
+      "name": "Rect. 30x60",
+      "category": "Tubos Rectangulares",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/perfil-rectangular-30x60-mm/"
+    },
+    {
+      "slug": "perfil-rectangular-40x80-mm",
+      "name": "Rect. 40x80",
+      "category": "Tubos Rectangulares",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/perfil-rectangular-40x80-mm/"
+    },
+    {
+      "slug": "perfil-rectangular-40x100-mm",
+      "name": "Rect. 40x100",
+      "category": "Tubos Rectangulares",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/perfil-rectangular-40x100-mm/"
+    },
+    {
+      "slug": "perfil-rectangular-50x100-mm",
+      "name": "Rect. 50x100",
+      "category": "Tubos Rectangulares",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/perfil-rectangular-50x100-mm/"
+    },
+    {
+      "slug": "perfil-rectangular-50x120-mm",
+      "name": "Rect. 50x120",
+      "category": "Tubos Rectangulares",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/perfil-rectangular-50x120-mm/"
+    },
+    {
+      "slug": "perfil-rectangular-50x150-mm",
+      "name": "Rect. 50x150",
+      "category": "Tubos Rectangulares",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/perfil-rectangular-50x150-mm/"
+    },
+    {
+      "slug": "tubo-redondo-8x09-mm",
+      "name": "Tubo 8x0.9",
+      "category": "Tubos Redondos",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/tubo-redondo-8x09-mm/"
+    },
+    {
+      "slug": "tubo-redondo-10x1-mm",
+      "name": "Tubo 10x1",
+      "category": "Tubos Redondos",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/tubo-redondo-10x1-mm/"
+    },
+    {
+      "slug": "tubo-redondo-58p-x-1mm",
+      "name": "Tubo 5/8x1",
+      "category": "Tubos Redondos",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/tubo-redondo-58p-x-1mm/"
+    },
+    {
+      "slug": "tubo-redondo-34p-x-1mm",
+      "name": "Tubo 3/4x1",
+      "category": "Tubos Redondos",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/tubo-redondo-34p-x-1mm/"
+    },
+    {
+      "slug": "tubo-redondo-78p-x-1mm",
+      "name": "Tubo 7/8x1",
+      "category": "Tubos Redondos",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/tubo-redondo-78p-x-1mm/"
+    },
+    {
+      "slug": "tubo-redondo-1p-x-1mm",
+      "name": "Tubo 1x1",
+      "category": "Tubos Redondos",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/tubo-redondo-1p-x-1mm/"
+    },
+    {
+      "slug": "tubo-redondo-1p-x-14mm",
+      "name": "Tubo 1x1.4",
+      "category": "Tubos Redondos",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/tubo-redondo-1p-x-14mm/"
+    },
+    {
+      "slug": "tubo-redondo-114p-x-16mm",
+      "name": "Tubo 1-1/4x1.6",
+      "category": "Tubos Redondos",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/tubo-redondo-114p-x-16mm/"
+    },
+    {
+      "slug": "tubo-redondo-114p-x-3mm",
+      "name": "Tubo 1-1/4x3",
+      "category": "Tubos Redondos",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/tubo-redondo-114p-x-3mm/"
+    },
+    {
+      "slug": "tubo-redondo-112p-x-18mm",
+      "name": "Tubo 1-1/2x1.8",
+      "category": "Tubos Redondos",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/tubo-redondo-112p-x-18mm/"
+    },
+    {
+      "slug": "tubo-redondo-2p-x-2mm",
+      "name": "Tubo 2x2",
+      "category": "Tubos Redondos",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/tubo-redondo-2p-x-2mm/"
+    },
+    {
+      "slug": "tubo-redondo-212p-x-22mm",
+      "name": "Tubo 2-1/2x2.2",
+      "category": "Tubos Redondos",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/tubo-redondo-212p-x-22mm/"
+    },
+    {
+      "slug": "pletina-12x25-mm",
+      "name": "Pletina 12x25",
+      "category": "Pletinas",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/pletina-12x25-mm/"
+    },
+    {
+      "slug": "pletina-19x25-mm",
+      "name": "Pletina 19x25",
+      "category": "Pletinas",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/pletina-19x25-mm/"
+    },
+    {
+      "slug": "pletina-25x25-mm",
+      "name": "Pletina 25x25",
+      "category": "Pletinas",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/pletina-25x25-mm/"
+    },
+    {
+      "slug": "pletina-32x3-mm",
+      "name": "Pletina 32x3",
+      "category": "Pletinas",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/pletina-32x3-mm/"
+    },
+    {
+      "slug": "pletina-50x3-mm",
+      "name": "Pletina 50x3",
+      "category": "Pletinas",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/pletina-50x3-mm/"
+    },
+    {
+      "slug": "barra-redonda-12-mm",
+      "name": "Barra 12mm",
+      "category": "Barras Redondas",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/barra-redonda-12-mm/"
+    },
+    {
+      "slug": "barra-redonda-63-mm",
+      "name": "Barra 6.3mm",
+      "category": "Barras Redondas",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/barra-redonda-63-mm/"
+    },
+    {
+      "slug": "esquinero-90-25mm",
+      "name": "Esq. 90° 25mm",
+      "category": "Esquineros",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/esquinero-90-25mm/"
+    },
+    {
+      "slug": "esquinero-90-40mm",
+      "name": "Esq. 90° 40mm",
+      "category": "Esquineros",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/esquinero-90-40mm/"
+    },
+    {
+      "slug": "esquinero-90-50mm",
+      "name": "Esq. 90° 50mm",
+      "category": "Esquineros",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/esquinero-90-50mm/"
+    },
+    {
+      "slug": "esquinero-90-66mm",
+      "name": "Esq. 90° 66mm",
+      "category": "Esquineros",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/esquinero-90-66mm/"
+    },
+    {
+      "slug": "esquinero-90-75mm",
+      "name": "Esq. 90° 75mm",
+      "category": "Esquineros",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/esquinero-90-75mm/"
+    },
+    {
+      "slug": "esquinero-45-66mm",
+      "name": "Esq. 45° 66mm",
+      "category": "Esquineros",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/esquinero-45-66mm/"
+    },
+    {
+      "slug": "columna-20x80-mm",
+      "name": "Columna 20x80",
+      "category": "Columnas",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/columna-20x80-mm/"
+    },
+    {
+      "slug": "columna-25x100-mm",
+      "name": "Columna 25x100",
+      "category": "Columnas",
+      "type": "perfil_estandar",
+      "url": "https://sodal.cl/product/columna-25x100-mm/"
+    }
+  ],
+  "product_categories_summary": {
+    "Ventanas Corredera": 7,
+    "Fijos y Proyectantes": 4,
+    "Cortinas de Cristal": 2,
+    "Muros Cortina": 1,
+    "Puertas Abatir": 3,
+    "Puertas Vaivén": 2,
+    "Soluciones Especiales": 2,
+    "Shower Door": 1,
+    "Perfiles Estándar": 55,
+    "Quincallería (accesorios)": "~80 productos (bisagras, cerraduras, cierres, carros, brazos, etc.)",
+    "Maquinaria y Herramientas": "~12 productos",
+    "Planchas de Aluminio": "4 productos (lisas 1.5mm, 2mm, 3mm + diamantada)",
+    "Accesorios Acero Inoxidable": "~40 productos (shower door, barandas, tiradores)"
+  },
+  "finishes_available": {
+    "MA": "Madera (Wood)",
+    "RC": "Roble Ceniza (Ash Oak)",
+    "BL": "Blanco (White)",
+    "GR": "Grafito (Graphite)",
+    "NG": "Negro (Black)",
+    "SA": "Satinado (Satin)",
+    "TI": "Titanio (Titanium)"
+  }
+}

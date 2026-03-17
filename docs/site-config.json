@@ -1,0 +1,36 @@
+{
+  "site": {
+    "url": "https://sodal.cl",
+    "title": "Sodal - Soluciones en Aluminio",
+    "tagline": "Líder en la distribución de aluminio en Chile",
+    "locale": "es_CL",
+    "currency": "CLP"
+  },
+  "platform": {
+    "cms": "WordPress",
+    "theme": "Astra",
+    "page_builder": "Elementor",
+    "ecommerce": "WooCommerce",
+    "seo": "Rank Math",
+    "analytics": "Google Tag Manager (GTM4WP)"
+  },
+  "contact": {
+    "phone": "(+56) 2 2482 1300",
+    "email": "contacto@sodal.cl",
+    "address": "Av. Marathón Nº 3605, Macul, Santiago, Chile",
+    "hours": "Lun-Vie 8:30 a 17:00 hrs"
+  },
+  "sales_team": [
+    {"name": "Federico Von Hausen", "role": "Aluminio y Accesorios", "phone": "(+56) 2 2482 1303", "mobile": "(+56) 9 9402 2461", "email": "fh@sodal.cl"},
+    {"name": "Miguel Vasquez", "role": "Aluminio y Accesorios", "phone": "(+56) 2 2482 1322", "mobile": "(+56) 9 9543 7456", "email": "mvasquez@sodal.cl"},
+    {"name": "Joel Nicolaz", "role": "Aluminio y Accesorios", "phone": "(+56) 2 2482 1304", "mobile": "(+56) 9 5814 6088", "email": "jnicolaz@sodal.cl"},
+    {"name": "Roberto Godoy", "role": "Productos Procesados", "phone": "(+56) 2 2482 1318", "mobile": "(+56) 9 9323 7312", "email": "rgodoy@sodal.cl"}
+  ],
+  "scrape_date": "2026-03-17",
+  "sitemap_stats": {
+    "total_pages": 14,
+    "total_products": 201,
+    "total_product_categories": 43,
+    "total_blog_categories": 1
+  }
+}

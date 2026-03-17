@@ -1,0 +1,69 @@
+{
+  "pages": [
+    "https://sodal.cl/",
+    "https://sodal.cl/contacto/",
+    "https://sodal.cl/noticias/",
+    "https://sodal.cl/glosario/",
+    "https://sodal.cl/informacion-tecnica/",
+    "https://sodal.cl/el-aluminio/",
+    "https://sodal.cl/catalogos/",
+    "https://sodal.cl/quienes-somos/",
+    "https://sodal.cl/historia/",
+    "https://sodal.cl/quote-request/",
+    "https://sodal.cl/productos/",
+    "https://sodal.cl/cuenta/",
+    "https://sodal.cl/checkout/",
+    "https://sodal.cl/carro/"
+  ],
+  "product_categories": {
+    "ventanas": {
+      "ventanas-corredera": ["Serie 25", "Serie S-33", "Serie S-33 RPT", "Serie Óptima S-28", "Serie 20", "Serie 4800", "Serie 5000"],
+      "fijos-y-proyectantes": ["Serie S-38", "Serie S-38 RPT", "Serie 42", "Serie 3800"],
+      "cortinas-de-cristal": ["MultiSlide S-83", "Claroflex Pivot"]
+    },
+    "puertas": {
+      "puertas-abatir": ["Puerta abatir 3200 ST", "Puerta abatir 3200 TP", "Puerta abatir 3200 L"],
+      "puertas-vaiven": ["Puerta vaivén S-50", "Puerta vaivén 4600"]
+    },
+    "fachadas": {
+      "muros-cortina": ["Muro Cortina G-50"],
+      "quiebravistas": ["Quiebravista", "Cortasol"]
+    },
+    "perfiles-de-aluminio": {
+      "perfiles-solidos-estandar": {"angulos-alas-iguales": 7, "angulos-alas-desiguales": 3, "pletinas": 5, "barras-redondas": 2, "angulos-para-escuadras": 3},
+      "perfiles-tubulares-estandar": {"perfiles-cuadrados": 4, "perfiles-rectangulares": 10, "perfiles-redondos": 12},
+      "esquineros-columnas": {"esquineros-90": 5, "esquineros-45": 1, "columnas": 2},
+      "perfiles-para-terminaciones": ["Guardapolvos", "Cubrejuntas", "Narices de Grada"],
+      "perfiles-usos-comerciales": ["Marcos Publicitarios", "Ferias y Estanterías", "Perfiles para Accesorios", "Perfiles Especiales"],
+      "perfiles-carrocerias": ["Piso Típico", "Piso Estriado", "Ángulo Piso", "Ángulo Rodón", "Tapa Telera"]
+    },
+    "accesorios-acero-inoxidable": {
+      "accesorios-shower-door": "Multiple shower door accessories",
+      "tiradores": "Door handles",
+      "accesorios-barandas": "Railing accessories",
+      "accesorios-cortinas-de-cristal": "Glass curtain accessories"
+    },
+    "quincalleria": {
+      "bisagras": "Hinges",
+      "brazos-proyeccion-abatir": "Projection arms",
+      "cerraduras": "Locks",
+      "cierrapuertas": "Door closers",
+      "cierres-manillas": "Handle locks",
+      "cierres-para-correderas": "Sliding window locks",
+      "escuadras-uniones-soportes": "Brackets and supports",
+      "rodamientos": "Bearings and rollers"
+    },
+    "maquinaria-herramientas-software": {
+      "pantografos-tronzadoras-mesas": "Cutting machines",
+      "punzonadoras": "Punching machines",
+      "matrices-prensas": "Dies and presses",
+      "software": "Software",
+      "herramientas": "Tools"
+    },
+    "planchas-aluminio": {
+      "planchas-diamantadas": "Diamond pattern sheets",
+      "planchas-lisas": "Flat sheets"
+    }
+  },
+  "total_products": 201
+}

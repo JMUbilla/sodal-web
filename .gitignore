@@ -1,6 +1,29 @@
-.DS_Store
+# Dependencies
 node_modules/
-.env
-.env.local
-dist/
 .next/
+dist/
+build/
+.sanity/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Legacy sensitive data
+legacy/db/
+*.wpress
+*.sql
+
+# Media (too large for git)
+uploads/
+legacy/uploads/
+public/uploads/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.log
